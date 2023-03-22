@@ -5,6 +5,9 @@ title
 </title>
 </head>
 <body>
-hi</body>
+<form>
+username : <input type="textfield" name="username" id="username">
+</form>
+</body>
 </html>
 
